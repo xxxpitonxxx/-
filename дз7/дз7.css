@@ -1,0 +1,146 @@
+.parent{
+position: absolute;
+width: 1920px;
+height: 950px;
+left: 0px;
+top: 0px;
+background: url('bgc.png');
+}
+
+.box{
+    width: 1110px;
+    height: 950px;
+    margin: 0 auto;
+}
+
+.header_menu{
+    display: flex;
+    color: white;
+}
+
+.item{
+    margin-top: 43px;
+}
+.item_left{
+    height: 21px;
+    min-width: 321px;
+    margin-top: 43px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    
+    width: 216px;
+    height: 52px;
+}
+
+.header_logo{
+    position: absolute;
+    left: 852px;
+    top: 25px;
+}
+
+.vector{
+    width: 20px;
+    height: 20px;
+}
+.header_vector1{
+    position: absolute;
+    left: 868px;
+    top: 43px;
+}
+.header_vector2{
+    position: absolute;
+    left: 1032px;
+    top: 43px;
+}
+
+.search{
+    width: 18px;
+    height: 18px;
+    margin-left: 444px;
+}
+.search_word{
+    width: 41px;
+    height: 21px;
+    margin-left: 16px;
+    margin-top: 43px;
+}
+.enter{
+    width: 123px;
+    height: 21px;
+    margin-left: 40px;
+    margin-top: 43px;
+}
+
+.people{
+    width: 16px;
+    height: 16px;
+    margin-left: 44px;
+}
+.like{
+    width: 16px;
+    height: 16px;
+    margin-left: 30px;
+}
+
+.item2{
+    width: 730px;
+    height: 49px;
+    margin: 0 auto;
+    margin-top: 523px;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    color: white;
+}
+
+.button{
+    height: 51px;
+    width: 261px;
+    border: 1px solid white;
+    margin-top: 65px;
+    margin-left: 425px;
+    background-color: #333333;
+    font-size: 18px;
+    color: white;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+}
+
+.line{
+    position: absolute;
+    margin-top: 830px;
+    width: 1920px;
+    border: 1px solid white;
+    left: 0px;
+}
+
+.box2{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    width: 1110px;
+    margin-top: 110px;
+}
+
+.rectangle{
+    width: 160px;
+    height: 60px;
+}
+
+.line2{
+    position: relative;
+    width: 60px;
+    height: 0px;
+    border: 1px solid #FFFFFF;
+    transform: rotate(90deg);
+    top: 30px;
+    
+}
+
